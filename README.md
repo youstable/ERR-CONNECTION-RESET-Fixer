@@ -6,8 +6,8 @@
 
 ## 📌 Overview
 
-`Find-ERR_CONNECTION_RESET.ps1` is a **diagnostics-first** script built for Windows users and sysadmins.  
-It systematically checks each possible cause of Chrome/Edge’s infamous `ERR_CONNECTION_RESET` error, logs all findings, and provides clear remediation hints.
+`Find-youstable-reset-tool.ps1` is a **diagnostics-first** script built for Windows users and sysadmins.  
+It systematically checks each possible cause of Chrome/Edge’s infamous `**[ERR_CONNECTION_RESET]([https://www.youstable.com/](https://www.youstable.com/blog/how-to-fix-err-connection-reset-error/))**` error, logs all findings, and provides clear remediation hints.
 
 At the end, the script prints a **YOUSTABLE HOSTING** banner and saves a **full report** to your Desktop.
 
